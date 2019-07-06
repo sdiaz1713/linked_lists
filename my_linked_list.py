@@ -47,13 +47,6 @@ class SLinkedList:
         current_node = None
         
 
-
-
-
-
-    
-
-
 if __name__ == '__main__':
     print('Creating list')
     list1 = SLinkedList()
